@@ -24,5 +24,21 @@ html {
   background-color: #fff;
   border: 3px solid #e2e2e2;
   border-radius: 10px;
-  text-;align: left;
+  text-align: left;
+}
+
+.cards img {
+  display: block;
+  margin: 0 auto 1rem;
+}
+
+.cards strong {
+  display: block;
+  margin-bottom: 1rem;
+
+  font-size: 1.125rem;
+}
+
+.cards dl {
+  margin-bottom: 1rem;
 }
